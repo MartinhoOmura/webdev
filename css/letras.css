@@ -1,0 +1,148 @@
+html{
+	padding-top:52px;
+}
+
+.navbar{
+	height:52px !important
+}
+
+.navbar-default {
+    background-color: #C2C800;
+    border-color: #C2C800;
+}
+.navbar-default .navbar-nav>li>a{
+	color: #fff;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	color: #fff;
+	opacity: 0.7;
+}
+
+.navbar-brand{
+	max-height: 52px;
+	padding: 0px;
+	margin: 0px;
+}
+.btn-terra{
+	padding: 10px;
+}
+.btn-terra a{
+	color: #BFBCBC;
+	text-decoration: none;
+}
+#form-buscar{
+	padding: 9px;
+	padding-left: 100px;
+}
+#form-buscar i{
+	color: #C2C800;
+}
+.btn-entrar {
+	padding: 15px 10px;
+	height:52px;
+	font-size: 18px;
+	color: #fff;
+}
+.btn-entrar:hover{
+	text-decoration: none;
+	background-color: #DAE00E;
+	color:#fff;
+}	
+.btn-vermais{
+	text-align: center;
+	padding: 20px 15px 0px 0px;
+}
+.btn-vermais a{
+	font-size: 18px;
+	color: #111;
+	padding: 5px;
+	text-decoration: none;
+}
+.btn-vermais a:hover{
+	background-color: #eee;
+}
+.carousel-inner img{
+	width: 100%;
+}
+
+h3{
+	color: #B7B700;
+}
+
+h4{
+	font-size: 20px;
+}
+.btn-ouvir a{
+	text-align: center;
+	font-size: 18px;
+	display: inline-block;
+	line-height: 26px;
+	border-radius: 3px;
+	font-weight: 700;
+	/* border: 1px solid #5EB70B; */;
+	cursor: pointer;
+	position: relative;
+	padding: 0 12px;
+	font-size: 13px;
+	background-color: #5EB70B;
+	text-decoration: none;
+	color: #fff;
+	padding: 0px 10px;
+}
+.btn-ouvir a:hover{
+	background-color: #3D710D;
+}
+#musicas-recomendadas{
+	margin-top: 10px;
+}
+#comunidade{
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+#comunidade h3{
+	font-size: 50px;
+	color: #444;
+	line-height: 100%;
+	font-weight: bold;
+}
+#comunidade h4{
+	font-size: 18px;
+	color: #444;
+	font-weight: bold;
+}
+#comunidade .btn-comecar{
+	display: block;
+	width: 390px;
+	text-align: center;
+	height: 56px;
+	font: 700 28px/56px Arial,sans-serif;
+	color: #FFF;
+	background: #8755BB;
+	padding: 0px;
+	border: none;
+}
+#comunidade .btn-comecar:hover{
+	background-color: #4F2679;
+}
+.contribuinte{
+	margin-top: 20px;
+	display: inline-block;
+	cursor: pointer;
+	text-align: center;
+	margin-bottom: 25px;
+	text-decoration: none;
+}
+.contribuinte p.nome{
+	font-weight: bold;
+	margin: 0px;
+}
+.contribuinte p.top{
+	font: 700 9px/1 Tahoma,sans-serif;
+	text-transform: uppercase;
+	color: #8755BB;
+	display: block;
+	margin-top: 5px
+}
